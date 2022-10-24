@@ -1,10 +1,10 @@
 
 ### Hola, I'm Rajamani! 👋
-- 🔭 I’m currently working on Tata Consultancy Services
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working at Freshworks
+- 🌱 I’m currently learning Full Stack Web Development
 
 <!--
-- 🔭 I’m currently working on Tata Consultancy Services
+- 🔭 I’m currently working at Freshworks
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
